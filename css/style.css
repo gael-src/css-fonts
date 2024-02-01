@@ -6,6 +6,12 @@
 nav a {
   margin: 10px;
   padding: 10px;
+  font-weight: bold;
+  color: blue;
+}
+
+nav a:hover {
+  color: darkblue;
 }
 
 h1,
