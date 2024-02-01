@@ -4,6 +4,7 @@
 @import "./google-fonts.css";
 
 nav a {
+  font-family: sans-serif;
   margin: 10px;
   padding: 10px;
   font-weight: bold;
@@ -16,6 +17,7 @@ nav a:hover {
 
 body > h1,
 body > h2 {
+  font-family: sans-serif;
   margin: 10px;
   padding: 10px;
 }
